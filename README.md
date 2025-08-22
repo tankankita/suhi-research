@@ -1,7 +1,8 @@
 # suhi-research
+This research explores the prediction of patient readmission using multiple machine learning models. The goal is to identify patterns in patient data that can help forecast the likelihood of readmittance.
+
 
 ## Files & Folder Descriptions
-
 ### **data/**
 - **`processed_text_dataframe.csv/`** → dataframe after processing for BERT classifer
 - **`suhi_data.xlsx/`** → Raw dataset for SUHI research.
